@@ -23,6 +23,7 @@ prost = { workspace = true }
 prost-types = { workspace = true }
 tendermint-proto = { workspace = true }
 speedate = { workspace = true }
+osmosis-std-derive = { workspace = true }
 
 [dev-dependencies]
 base64 = { workspace = true }
